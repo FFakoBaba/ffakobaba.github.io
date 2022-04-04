@@ -11,3 +11,7 @@ evet reis buraya geldiysen mevzudan anlıyosun demektir o yüzden güncellemeyi 
 5. "overlay.png" yi nereye yüklediysen onuda `elraenn_bayrak.user.js` içine linkini koyarsın
 6. hadi hayırlı tıraşlar
 
+## teşekkürler
+
+soldaki silksongcu babalardan noktalaştırma ve overlay scriptini arakladım haklarını helal etsinler
+
